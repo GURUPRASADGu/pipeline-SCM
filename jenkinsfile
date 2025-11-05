@@ -44,6 +44,4 @@ pipeline {
             // you can add back the junit step with a specific file pattern,
             // e.g., testResults: 'build/reports/*.xml'
             echo "Pipeline post-processing finished."
-        }
-    }
-}
+        
